@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"lint": "^0.8.19",
+<<<<<<< HEAD
+=======
+		"next-auth": "5.0.0-beta.27",
+>>>>>>> ad55696f (Chapters are done)
+		"use-debounce": "^10.0.4"
+	}
+}
